@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Kolokoltsev"]
+	path = SubmoduleRepository_Kolokoltsev
+	url = https://github.com/kolokoltsev-g/SubmoduleRepository_Kolokoltsev
